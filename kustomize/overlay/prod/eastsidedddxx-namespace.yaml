@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: eastsidedddxx
+  labels:
+    environment-id: env_9805ae15-7bf6-443f-9c15-06676c264ebb
+    project-id: project_2977457d-cd12-4769-8925-9de4e6f0e050
+    project-name: loki
+    environment-name: prod
+    organization-id: org_e7c66bba-9ba1-48d7-bcc3-803475c3b4b6
